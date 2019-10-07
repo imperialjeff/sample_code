@@ -3,10 +3,6 @@
 * Plugin Name:  Rewrite Wordpress uploads URLs
 * Description:  Replace /wp-content/uploads/YYYY/MM/ with different directory
 * Version:      1.0.0
-* Author:       Maciej Bis
-* Author URI:   http://maciejbis.net/
-* License:      GPL-2.0+
-* License URI:  http://www.gnu.org/licenses/gpl-2.0.txt
 */
 // You can change the directory name, but please always keep slash in the end.
 DEFINE('NEW_MEDIA_DIR', 'media/');
